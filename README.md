@@ -37,6 +37,12 @@ I used only create-react-app, axios, node-sass and fontawesome-icons. The API is
 git clone https://github.com/tobiasorosa/pokedex.git
 ```
 
+**Install the node dependencies**
+
+```bash
+npm install
+```
+
 **Navigate to the project folder and run the server**
 
 ```bash
