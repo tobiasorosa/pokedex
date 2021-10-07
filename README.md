@@ -53,7 +53,7 @@ npm start
 
 _☞ localhost:3000_
 
-## Netlify
+## Live version
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/21c65d17-82e1-471d-b653-ff4be381a17b/deploy-status)](https://pokedex-tobias.netlify.app/)
 
